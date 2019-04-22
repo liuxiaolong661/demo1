@@ -30,7 +30,7 @@ public class HelloController {
         map.put("北京", "北京市");
         map.put("湖北", "武汉市");
         map.put("广东", "深圳市");
-        map.put("guangxi", "guilin");
+//        map.put("guangxi", "guilin");
 
         return map;
     }
